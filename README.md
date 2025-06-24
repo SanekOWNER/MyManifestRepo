@@ -1,1 +1,0 @@
-# MyManifestRepo
